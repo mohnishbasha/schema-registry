@@ -42,6 +42,7 @@
         <dependency>
             <groupId>io.confluent</groupId>
             <artifactId>rest-utils</artifactId>
+            <version>${io.confluent.rest-utils.version}</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
